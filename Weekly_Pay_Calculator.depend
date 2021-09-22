@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632319757 source:c:\sahil nazir\weekly_pay_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
